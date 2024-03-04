@@ -1,3 +1,3 @@
-Hello! Git to it! 
+Hello! 
 
-I'm so good at puns :)
+This is so cool!
